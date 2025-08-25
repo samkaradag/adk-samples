@@ -125,7 +125,7 @@ For running tests and evaluation, install the extra dependencies:
 poetry install --with dev
 ```
 
-Then the tests and evaluation can be run from the `financial-advisor` directory using
+Then the tests and evaluation can be run from the `data-engineering` directory using
 the `pytest` module:
 
 ```bash
